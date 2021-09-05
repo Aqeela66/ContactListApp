@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ContactListApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ContactListApp/static/js/main.b3697d19.chunk.js",
+    "main.js.map": "/ContactListApp/static/js/main.b3697d19.chunk.js.map",
+    "runtime-main.js": "/ContactListApp/static/js/runtime-main.d9a5507b.js",
+    "runtime-main.js.map": "/ContactListApp/static/js/runtime-main.d9a5507b.js.map",
+    "static/css/2.6293a573.chunk.css": "/ContactListApp/static/css/2.6293a573.chunk.css",
+    "static/js/2.a5a0d7b2.chunk.js": "/ContactListApp/static/js/2.a5a0d7b2.chunk.js",
+    "static/js/2.a5a0d7b2.chunk.js.map": "/ContactListApp/static/js/2.a5a0d7b2.chunk.js.map",
+    "static/js/3.6a407129.chunk.js": "/ContactListApp/static/js/3.6a407129.chunk.js",
+    "static/js/3.6a407129.chunk.js.map": "/ContactListApp/static/js/3.6a407129.chunk.js.map",
+    "index.html": "/ContactListApp/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/ContactListApp/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ContactListApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a5a0d7b2.chunk.js.LICENSE.txt": "/ContactListApp/static/js/2.a5a0d7b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a5507b.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.a5a0d7b2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b3697d19.chunk.js"
+  ]
+}
