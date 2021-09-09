@@ -34,4 +34,4 @@ https://github.com/Aqeela66/Contact-list-App
 
 ##### Live Link: 
 
-https://aqeela66.github.io/Contact-list-App/
+https://aqeela66.github.io/ContactListApp/
